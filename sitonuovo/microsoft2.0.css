@@ -1,0 +1,225 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Helvetica;
+}
+
+header {
+    height: 60px;
+    width: 100%;
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    width: 100%;
+}
+
+.menu {
+    float: right;
+    margin-right: 150px;
+    margin-top: -28px;
+    width: 1000px;
+}
+
+nav ul {
+    margin-top: -10px;
+    display: inline-flex;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+nav ul a:link {
+    color: rgb(101, 161, 218);
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+nav ul a:hover {
+    color: rgb(178, 205, 231);
+}
+
+.billgates {
+    margin-left: 100px;
+    z-index: 0;
+}
+
+.testo {
+    font-size: 14pt;
+    color: rgb(75, 75, 75);
+    margin-left: 600px;
+    width: 550px;
+    z-index: 1;
+    margin-top: -500px;
+}
+
+.testo a:link {
+    color: rgb(75, 75, 75);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24pt;
+}
+
+.testo a:hover {
+    color: rgb(160, 160, 160);
+}
+
+.spazio {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 20px;
+    margin-top: 300px;
+}
+
+.prodotti {
+    margin-top: 340px;
+    width: 100%;
+    height: 150px;
+}
+
+.prodotti ul {
+    list-style-type: none;
+    text-align: center;
+    margin-left: -40px;
+}
+
+li#a {
+    color: white;
+    font-weight: bold;
+    font-size: 10pt;
+    text-transform: uppercase;
+}
+
+.prodotti a:link {
+    color: white;
+    text-decoration: none;
+    font-size: 9pt;
+}
+
+.prodotti a:hover {
+    color: rgb(178, 205, 231);
+}
+
+.prod1 {
+    float: left;
+    margin-left: 4.2px;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.prod2 {
+    float: left;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.prod3 {
+    float: left;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.prod4 {
+    float: left;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.prod5 {
+    float: left;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.prod6 {
+    float: left;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.prod7 {
+    float: left;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.prod8 {
+    float: left;
+    margin-right: 7px;
+    background-color: rgb(101, 161, 218);
+    width: 12%;
+    height: 150px;
+}
+
+.link#a {
+    float: left;
+    margin-top: 35px;
+    width: 48%;
+}
+
+.link#b {
+    float: right;
+    margin-top: 35px;
+    width: 48%;
+}
+
+.link1 {
+    background-color: rgb(238, 238, 238);
+    height: 60px;
+    margin-top: 15px;
+}
+
+.link1 a:link {
+    color: rgb(75, 75, 75);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16pt;
+    margin-left: 15px;
+}
+
+.link a:hover {
+    color: rgb(160, 160, 160);
+}
+
+footer {
+    margin-top: 300px;
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+    font-size: 9pt;
+    text-align: center;
+    color: rgb(75, 75, 75);
+}
+
+footer a:link {
+    color: rgb(75, 75, 75);
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.altro {
+    font-size: 10pt;
+    font-weight: bold;
+    
+}
+
+.altro a:link{
+    margin-right: 60px;
+}
